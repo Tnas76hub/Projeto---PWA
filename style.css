@@ -77,6 +77,7 @@ color: #bdc3c7;
     height: 450px;
     
 }
+
 /* Efeito quando o rato passa por cima (ou o dedo toca) */
 .btn:hover {
     background-color: #3498db;
